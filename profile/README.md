@@ -30,7 +30,11 @@ Interested in collaborating? We welcome contributions and ideas! Feel free to:
 
 ## 📫 Get In Touch
 
-Have questions or want to connect? Reach out through our repositories or team members!
+Have questions or want to connect? We'd love to hear from you!
+
+**Support:** cyberbrotherhq@gmail.com
+
+Feel free to also reach out through our repositories or team members!
 
 ---
 
